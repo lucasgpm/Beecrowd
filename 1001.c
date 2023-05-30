@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main(){
 	int a, b, x;
 	scanf("%i%i", &a, &b);
